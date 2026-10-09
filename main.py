@@ -175,4 +175,4 @@ async def setup_ticket(interaction: discord.Interaction):
 keep_alive()
 
 # Botu Başlat
-bot.run("MTU1ODE4Mzg5OTkzMzQ0MjA5OQ.GlgH0u.Mlz8ykqnMm1CeRep2YccvqovvMqke5iAQLYHhw")
+bot.run("MTU1ODE4Mzg5OTkzMzQ0MjA5OQ.G9VBfm.l6NqiSD1hqa9ASF_QQS86-9ONXVt30kS6RMzPo")
